@@ -1,0 +1,44 @@
+.tologin {
+    color: #2D89FF;
+    font-size: 360%;
+    margin-top: 13%;
+}
+
+.Login1 {
+    width: 55%;
+    height: 50px;
+    background-color: #2D89FF;
+    color: #FFFFFF;
+
+}
+
+.textfield {
+    margin-top: 10%;
+    
+} 
+.TF{
+    justify-content: space-between;
+    gap: 28px;
+}
+.pic1{
+    position: absolute;
+    bottom: 0;
+    left:  100px;
+}
+.pic2{
+    position:absolute;
+    bottom: 0;
+    left:  200px;
+}
+.rememberMe{
+    color: #2D89FF;
+    
+}
+
+.forgotpassword{
+    color: #2D89FF;
+}
+
+.nothaveanAccount{
+    color: #2D89FF;
+}

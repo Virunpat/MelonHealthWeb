@@ -1,0 +1,31 @@
+.CA {
+    width: 55%;
+    height: 50px;
+    background-color: #2D89FF;
+    color: #FFFFFF;
+
+}
+.pic3{
+    position: absolute;
+    bottom: 0;
+    left:  100px;
+}
+
+.pic4{
+    position:absolute;
+    bottom: 0;
+    left:  200px;
+    
+}
+.TF{
+    justify-content: space-between;
+    gap: 28px;
+}
+.tosignup{
+    color: #2D89FF;
+    font-size: 360%;
+    margin-top: 8%;
+}
+.haveanAccount{ 
+    color: #2D89FF;
+}

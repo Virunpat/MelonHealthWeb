@@ -1,0 +1,13 @@
+.header {
+     background: linear-gradient(to left, #2F7FE5, #2F7FE5 , #2F7FE5,#3D3D3E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+.header2{
+    font-size: 260%;
+    margin-top: 50px;
+    margin-left: 40px;
+    color: #3D3D3E;
+}

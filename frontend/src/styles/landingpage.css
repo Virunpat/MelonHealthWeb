@@ -1,0 +1,42 @@
+ Body {
+    background-color:#C5D6F7;
+}
+
+.pic{
+    max-width: 500px;
+    width: 35vw;
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+}
+.logo{
+     margin-top: 70px;
+     margin-left: 90px;
+     
+     width: 180px;
+
+}
+ .loginL{
+    background-color:#C5D6F7;
+    font-size: 40px;
+    margin-top: 5%;
+    color: #2D89FF;
+    font-weight: bold;
+    
+
+}
+.signupL{
+    background-color:#C5D6F7;
+    font-size: 40px;
+    margin-top: 5%;
+    color: #2D89FF;
+    font-weight: bold;
+    
+} 
+
+.text{
+
+    margin-left: 0px;
+    margin-right: 50px;
+    margin-top: 150px;
+}
